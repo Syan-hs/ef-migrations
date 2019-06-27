@@ -1,0 +1,14 @@
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EFMigrations.DataAccess.ClientMigrations.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EFMigrations.DataAccess.ClientMigrations.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EntityFramework.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EntityFramework.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.csproj.CoreCompileInputs.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\bin\Debug\EFMigrations.DataAccess.ClientMigrations.dll.config
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.Migrations.Epscan_Configuration1.resources
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.csproj.GenerateResource.Cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.csprojResolveAssemblyReference.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess.ClientMigrations\obj\Debug\EFMigrations.DataAccess.ClientMigrations.Migrations.Epscan_StoreProcChange.resources

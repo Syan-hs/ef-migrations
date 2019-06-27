@@ -1,0 +1,17 @@
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EFMigrations.DataAccess.dll.config
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EFMigrations.DataAccess.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EFMigrations.DataAccess.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EntityFramework.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EntityFramework.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.Migrations.init.resources
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.csproj.GenerateResource.Cache
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.Migrations.Make_Other_Column_Added.resources
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.Migrations.DealerLocationRelationShipAdded.resources
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.Migrations.Make_Model_Relationship_Added.resources
+C:\Projects\Xylep\EFMigrations\EFMigrations.DataAccess\obj\Debug\EFMigrations.DataAccess.Migrations.Dealer_Make_RelationShipAdded.resources

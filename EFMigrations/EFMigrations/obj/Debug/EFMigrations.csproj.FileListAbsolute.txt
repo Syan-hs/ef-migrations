@@ -1,0 +1,14 @@
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.exe.config
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.exe
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EntityFramework.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EntityFramework.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Xylep\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csprojResolveAssemblyReference.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csproj.CoreCompileInputs.cache
+C:\Projects\Xylep\EFMigrations\EFMigrations\obj\Debug\EFMigrations.exe
+C:\Projects\Xylep\EFMigrations\EFMigrations\obj\Debug\EFMigrations.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.DataAccess.dll
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.DataAccess.pdb
+C:\Projects\Xylep\EFMigrations\EFMigrations\bin\Debug\EFMigrations.DataAccess.dll.config
